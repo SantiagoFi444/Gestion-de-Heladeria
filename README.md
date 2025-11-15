@@ -4,6 +4,18 @@ El sistema incluye un módulo de inicio de sesión, administración de usuarios,
 
 Este proyecto fue desarrollado como parte de un trabajo académico para demostrar el uso de interfaces gráficas, manipulación de bases de datos y organización modular de un sistema real.
 
+▶ Cómo ejecutar el proyecto
+
+Descargar el archivo .zip
+
+Descomprimirlo
+
+Abrir NetBeans → Open Project
+
+Seleccionar carpeta del proyecto
+
+Ejecutar desde el botón Run
+
 ---
 
 ## 📌 Características principales
@@ -44,6 +56,13 @@ Este proyecto fue desarrollado como parte de un trabajo académico para demostra
 - **Java Swing**
 - **MySQL o MariaDB** como motor de base de datos
 - JDBC para la conexión
+
+---
+
+## 📌 Autor
+
+Santiago Figueroa
+Alejandro Briceño
 
 ---
 
@@ -115,4 +134,3 @@ CREATE TABLE ventas (
     atendido_por VARCHAR(100),
     fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
